@@ -55,4 +55,4 @@ O maior valor deste projeto não está no número final de acurácia, mas no **p
 
 ---
 
-**Autor:** Yu ([@TalitaLuci](https://github.com/TalitaLuci)) · Mestrando em Engenharia Mecânica (UDESC) · Curso EBAC — Profissão: Cientista de Dados
+**Autor:** Talita Luci (https://github.com/TalitaLuci) · Mestrando em Engenharia Mecânica (UDESC) · Curso EBAC — Profissão: Cientista de Dados
